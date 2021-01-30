@@ -45,7 +45,7 @@ Password Backup: Simple, Secure, Idiot-Proof
 User Interface:
 Exchange runs in the background unless called upon, wallet runs in the background unless called upon.  Minimal buttons, elegant design.  It should feel like web 2.0 but with something truly amazing underneath the hood. 
 
-Mandatory BRAVE Browser: Web 2.0 needs to move over for Web 3.0, it's preventing mainstream from adopting.  Dependencies should include brave + light background wallet for mobile and desktop (browser-based) versions of the client build.  This dependency should load an extension into the browser as it installs BRAVE, or if BRAVE is already installed ask for permission to install this extension.  Metamask should be envied for its features, but certainly not for its ease of use.  Swapping between networks should be in the background unless called upon by a simple toggle.
+Mandatory BRAVE / BREAKER Browser: Web 2.0 needs to move over for Web 3.0, it's preventing mainstream from adopting.  Dependencies should include brave + light background wallet for mobile and desktop (browser-based) versions of the client build.  This dependency should load an extension into the browser as it installs BRAVE, or if BRAVE is already installed ask for permission to install this extension.  Metamask should be envied for its features, but certainly not for its ease of use.  Swapping between networks should be in the background unless called upon by a simple toggle.
 
 End to End Encryption:  CHG 3.0 architecture is still secret and I can't talk about this yet.  This is to do with our offline-capable concepts of transaction, and permits for the encrypted encoding for the OS to live on every snippet of code
 
