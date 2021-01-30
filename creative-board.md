@@ -20,7 +20,7 @@ Hybrid nodes:  Efficient nodes, or nodes which need to run off of very little po
 
 Rethinking money: All these coins flying around, has it not become aparent that they are only the value of the utility they can provide?  Therefore we are back to providing only a service to the customer for most coins.  Though CHG can, by way of scaling our network, make sure that the coin itself has value AND utility - most other coins will evolve away from the financial aspect of their purpose and into their utility, with fees being handled in a less obtuse way than the present.  CHG should not hide from this possible reality, but should also attempt to secure our place as a coin of value, as opposed to only a platform of utility with its "coin" running in the background with no further name recognition.
 
-Layered consensus: An energy efficient chain for off-grid, a highly secure and redundant chain.  An efficient chain for storing minimal information, a second chain for storing maximal information
+Layered consensus: An energy efficient chain for off-grid, a highly secure and redundant chain for on-grid.  An efficient chain for storing minimal information, a second chain for storing maximal information
 
 Alternating chain blocktimes to permit rapid transaction time
 
